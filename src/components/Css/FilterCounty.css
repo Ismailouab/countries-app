@@ -1,0 +1,12 @@
+select{
+    padding: 10px 25px;
+    background: hsl( 0 , 10%, 83% );
+    margin-bottom: 50px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    color: #555;
+    cursor: pointer;
+
+
+}
